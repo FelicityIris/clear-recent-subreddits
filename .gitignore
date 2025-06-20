@@ -1,0 +1,13 @@
+# Editor files
+*.swp
+*.swo
+*.bak
+
+# macOS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# System-specific
+Thumbs.db
