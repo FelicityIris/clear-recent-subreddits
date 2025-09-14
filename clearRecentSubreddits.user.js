@@ -3,14 +3,14 @@
 // @namespace	https://reddit.com/
 // @version		1.0
 // @description	Deletes 'recent-subreddits-store' from localStorage on reddit.com
-// @author		Felicity Iris (github.com/felixity1917)
+// @author		Felicity Iris (github.com/Felicityiris)
 // @match		https://www.reddit.com/*
 // @grant		none
 // @run-at		document-start
 // @license		GPL-3.0
-// @homepage	https://github.com/felixity1917/clear-recent-subreddits
-// @downloadURL	https://raw.githubusercontent.com/felixity1917/clear-recent-subreddits/refs/heads/main/clearRecentSubreddits.user.js
-// @updateURL	https://raw.githubusercontent.com/felixity1917/clear-recent-subreddits/refs/heads/main/clearRecentSubreddits.user.js
+// @homepage	https://github.com/FelicityIris/clear-recent-subreddits
+// @downloadURL	https://raw.githubusercontent.com/FelicityIris/clear-recent-subreddits/refs/heads/main/clearRecentSubreddits.user.js
+// @updateURL	https://raw.githubusercontent.com/FelicityIris/clear-recent-subreddits/refs/heads/main/clearRecentSubreddits.user.js
 // ==/UserScript==
 
 (function() {
